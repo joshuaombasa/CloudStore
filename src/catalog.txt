@@ -1,0 +1,7 @@
+CloudStore Product Catalog
+
+Products
+  - Switches
+  - Roters
+  - Hubs
+  - Firewalls
